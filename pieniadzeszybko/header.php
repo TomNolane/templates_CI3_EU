@@ -16,4 +16,4 @@ if(!isset($description)) $description='pieniadzeszybko - najlepszy w internecie 
     <link rel="stylesheet" href="/templates/pieniadzeszybko/assets/css/style.min.css">
     <link href="/templates/pieniadzeszybko/assets/css/bootstrap.css" rel="stylesheet">
     <link rel="icon" href="/templates/pieniadzeszybko/assets/favicon/favicon.ico">
-</head>
+</head> 

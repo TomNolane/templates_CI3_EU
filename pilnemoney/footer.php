@@ -6,7 +6,8 @@
       </div>
       <div id="bottom-footer-wrapper">
          <div id="bottom-footer">
-            тут текст какой-то должен быть
+           <p>Niniejsza strona NIE reprezentuje instytucji mikrofinansowej, bądź jakiegokolwiek banku i nie zajmuje się wydawaniem pożyczek czy kredytów. Dane osobowe użytkowników nie są na niej gromadzone i przechowywane. Wszystkie polecane instytucje kredytowe online posiadają  odpowiednie licencje. Warunki płatności można zweryfikować na stronie internetowej instytucji mikrofinansowej.
+        </p>
          </div>
       </div>
 </body>

@@ -148,10 +148,11 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                 </div>
                 </a>
             </div>
-            <p>Реклама снизу</p>
+            <p></p>
         </div>
     </div>
-    <div class="advertisement-stripe-wrapper">
+
+    <!-- <div class="advertisement-stripe-wrapper">
         <div class="advertisement-stripe">
             <div class="container">
                 <div class="row">
@@ -167,7 +168,8 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
+
     <div id="content-wrapper">
         <div id="content">
             <h2>Ogólne warunki i wymagania kwalifikacyjne</h2>
@@ -185,6 +187,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                 Całkowity koszt kredytu wynosi 365% rocznie.
             </p>
         </div>
+<!--         
         <div class="advertisement-stripe-wrapper">
             <div class="advertisement-stripe">
                 <div class="container">
@@ -201,9 +204,10 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
-    <div id="offers">
+
+    <!-- <div id="offers">
         <h2>Title</h2>
         <h3>
             subtitle</h3>
@@ -307,8 +311,9 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="advertisement-stripe-wrapper">
+    </div> -->
+
+    <!-- <div class="advertisement-stripe-wrapper">
         <div class="advertisement-stripe">
             <div class="container">
                 <div class="row">
@@ -324,5 +329,5 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <?php require 'footer.php';  ?>

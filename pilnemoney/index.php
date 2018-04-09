@@ -11,7 +11,7 @@
     <div id="banner">
         <h2>PILNEMONEY <br>
 SZYBKIE POŻYCZKI ONLINE</h2>
-        <p class="undertitle-text">ZALECAMY ZŁOŻENIE MAKSYMALNEJ ILOŚCI WNIOSKÓW, DZIĘKI CZEMU MOŻNA ZWIĘKSZYĆ SWOJE SZANSE NA OTRZYMANIE KREDYTU DO 100%. 
+        <p class="undertitle-text">ZALECAMY ZŁOŻENIE MAKSYMALNEJ ILOŚCI WNIOSKÓW, DZIĘKI CZEMU MOŻNA ZWIĘKSZYĆ SWOJE SZANSE NA OTRZYMANIE KREDYTU DO 100%. <br>
 WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
         <div class="container">
             <div class="row">

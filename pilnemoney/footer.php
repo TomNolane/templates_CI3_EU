@@ -6,7 +6,7 @@
       </div>
       <div id="bottom-footer-wrapper">
          <div id="bottom-footer">
-           <p>Niniejsza strona NIE reprezentuje instytucji mikrofinansowej, bądź jakiegokolwiek banku i nie zajmuje się wydawaniem pożyczek czy kredytów. Dane osobowe użytkowników nie są na niej gromadzone i przechowywane. Wszystkie polecane instytucje kredytowe online posiadają  odpowiednie licencje. Warunki płatności można zweryfikować na stronie internetowej instytucji mikrofinansowej.
+           <p>Niniejsza strona NIE reprezentuje żadnej instytucji mikrofinansowej, bądź jakiegokolwiek banku czy agencji reklamowej, i nie zajmuje się wydawaniem pożyczek czy kredytów. Zajmujemy się zbieraniem i porównywaniem danych finansowych i robimy wszystko, żeby ułatwić Państwu wybór najlepszego wariantu. Nie gromadzimy i nie przechowujemy dane osobowe użytkowników. Wszystkie polecane instytucje kredytowe posiadają odpowiednie licencje. Warunki płatności można zweryfikować na stronie internetowej każdej instytucji mikrofinansowej.
         </p>
          </div>
       </div>

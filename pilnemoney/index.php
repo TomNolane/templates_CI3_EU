@@ -11,8 +11,7 @@
     <div id="banner">
         <h2>PILNEMONEY <br>
 SZYBKIE POŻYCZKI ONLINE</h2>
-        <p class="undertitle-text">ZALECAMY ZŁOŻENIE MAKSYMALNEJ ILOŚCI WNIOSKÓW, DZIĘKI CZEMU MOŻNA ZWIĘKSZYĆ SWOJE SZANSE NA OTRZYMANIE KREDYTU DO 100%. <br>
-WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
+        <p class="undertitle-text">Aby podnieść swoje szanse na otrzymanie szybkiego kredytu do 100% zachęcamy do złożenia jak największej liczby wniosków!<br> WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
         <div class="container">
             <div class="row">
                 <!-- SMS365 --> 
@@ -27,7 +26,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 18 do 70</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -44,7 +43,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 24 do 60</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +60,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 21 do 65</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -78,7 +77,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 21 do 65</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -94,7 +93,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 18 do 70</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +109,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 18 do 70</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -126,7 +125,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 21 do 65</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -142,7 +141,7 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
                             <li>od 21 do 65</li>
                         </ul>
                         <div>
-                            <a class="offer2">Wniosek o pożyczkę</a>
+                            <a class="offer2">Zostaw wniosek!</a>
                         </div>
                     </div>
                 </div>
@@ -172,17 +171,22 @@ WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
 
     <div id="content-wrapper">
         <div id="content">
-            <h2>Ogólne warunki i wymagania kwalifikacyjne</h2>
-            <h4>Wymagania dla kredytobiorcy:</h4>
+            <h2>Najważniejsze informacje i wymagania</h2>
+            <h4>Wymagania do kredytobiorcy:</h4>
             <p>Wiek od 18 do 75 lat;<br>
-                Stałe miejsce zameldowania w każdym województwie Polski;<br>
-                Dowolna historia kredytowa.</p>
+Stałe miejsce zameldowania na terenie całej Polski;<br>
+Dowolna historia kredytowa.
+</p>
             <h4>Warunki otrzymania pożyczki:</h4>
-            <p>Pierwsza pożyczka w wysokości do ... zł wydawana jest z oprocentowaniem równym 0% w przypadku jej terminowej spłaty; Oprocentowanie pożyczek wynosi od 30 do 360% rocznie; kredytów konsumpcyjnych i kart kredytowych – od 17 do 31% rocznie. W przypadku nie spłacenia pożyczki w określonym terminie, naliczana jest kara w wysokości 0,10% dziennej kwoty opóźnienia, jednak nie jest większa niż 10% kwoty kredytu; W przypadku długiego opóźnienia płatności, informacje zostaną przekazane do rejestru dłużników.</p>
+            <p>Pierwsza pożyczka w wysokości do ... zł wydawana jest za darmo, z oprocentowaniem równym 0% w przypadku jej terminowej spłaty; Oprocentowanie pożyczek wynosi od 30 do 360% rocznie, oraz oprocentowanie kredytów konsumenckich i kart kredytowych – od 17 do 31% rocznie. W przypadku nie spłacenia pożyczki w określonym terminie, naliczana jest kara w wysokości 0,10%  od dziennej kwoty za opóźnienie, jednak kara nie jest większa niż 10% od kwoty kredytu; W przypadku dłuższego opóźnienia płatności, informacje zostaną przekazane do KRD (krajowego rejestru dłużników).</p>
             <h4>Konsekwencje niespłacenia pożyczki:</h4>
-            <p>W przypadku nieterminowego spłacenia kwoty kredytu lub kwoty odsetek za korzystanie z pożyczonych środków, pożyczkobiorca jest zmuszony zapłacić karę za zwłokę. Większość kredytodawców idzie na ustępstwa i nalicza dodatkowe 3 dni robocze celem wykonania płatności. Są one przewidziane w przypadku, jeśli np. przelew bankowy trwał dłużej niż zwykle. Jednakże, w przypadku braku jakiejkolwiek reakcji kredytobiorcy przez dłuższy czas, zostanie on obciążony karą za zwłokę terminowej spłaty, w wysokości średnio 0,10% pierwotnej kwoty kredytu, 0,03% zaległej kwoty – średniej dla kredytów konsumpcyjnych i kart kredytowych. Niespełnienie warunków spłaty kredytów i pożyczek może skutkować przekazaniem danych kredytobiorcy do rejestru dłużników, z kolei długu – firmie windykacyjnej. O terminach spłat płatności, wierzyciel w odpowiednim czasie poinformuje kredytobiorcę poprzez wiadomość SMS lub za pośrednictwem poczty e-mail. Zaleca się dokonanie płatności w dniu otrzymania ww. przypomnień. Terminowa spłata pożyczki skutkuje budowaniem dobrej historii kredytowej, która w przyszłości zwiększa szanse na uzyskanie kredytu na korzystniejszych warunkach. Niniejsza propozycja nie jest ofertą. Warunki końcowe należy omówić w bezpośredniej komunikacji z wierzycielami.</p>
+            <p>W przypadku nieterminowego spłacenia kwoty kredytu lub kwoty odsetków za korzystanie z pożyczonych środków, pożyczkobiorca będzie zmuszony zapłacić karę za zwłokę. Większość kredytodawców ustalają dodatkowe 3 dni robocze, w ciągu których pożyczkobiorca może wykonać płatność. Dodatkowe dni do spłaty także są ustalane w przypadku gdy, np. przelew bankowy trwał dłużej niż zwykle. Jednakże, w przypadku braku jakiejkolwiek reakcji ze strony kredytobiorcy przez dłuższy czas, zostanie on obciążony karą za zwłokę terminowej spłaty, w wysokości około 0,10% od pierwotnej kwoty kredytu, 0,03% zaległej kwoty – średnio dla kredytów konsumenckich i kart kredytowych.<br>
+            <br>Niespełnienie warunków spłaty kredytów i pożyczek może skutkować przekazaniem danych kredytobiorcy do KRD (krajowego rejestru dłużników), z kolei nie spłata długu spowoduje zgłoszenie do firmy windykacyjnej. <br>
+            <br>O terminach spłat należności kredytobiorca będzie poinformowany w odpowiednim czasie poprzez wysłanie wierzycieliem SMSa albo informacja zostanie przekazana drogą elektroniczną. Zaleca się dokonanie płatności w dniu otrzymania ww. przypomnień. Terminowa spłata pożyczki zbuduje dobrą historię kredytową, która w przyszłości zwiększy szanse na uzyskanie kredytu na korzystniejszych warunkach. <br>
+            <br>Niniejsza propozycja nie jest ofertą pożyczkową. Omówić końcowe warunki należy bezpośrednio z wierzycielami.
+            </p>
             <h4>Informacja o całkowitym koszcie pożyczki i przykład obliczania:</h4>
-            <p>Pożyczka w wysokości ... zł, wydana na okres 61 dni z przedłużeniem. W roku jest 365 dni, a według umowy oprocentowanie wynosi 1% dziennie (roczna stopa, odpowiednio, będzie równa 365%). Kwota odsetek za dany rok wynosi ... zł. (... * 365 = ... zł), opłata za dzień jest zatem równa ... zł (... / 365 = ... zł), z kolei za 61 dni, odpowiednio, ... zł (... * 61 = ... zł). Całkowita kwota płatności wyniesie więc ... zł (... zł – podstawowy dług + ... zł – oprocentowanie).
+            <p>Pożyczka w wysokości ... zł, wydana na okres 61 dni z przedłużeniem. Rok liczy 365 dni, według umowy oprocentowanie wynosi 1% dziennie (roczna stopa, odpowiednio, będzie równa 365%). Kwota odsetków za dany rok wynosi ... zł. (... * 365 = ... zł), opłata za jeden dzień jest zatem równa ... zł (... / 365 = ... zł), z kolei opłata za 61 dni równa się, odpowiednio, ... zł (... * 61 = ... zł). Więc całkowita kwota płatności wyniesie ... zł (... zł – podstawowy dług + ... zł – oprocentowanie). 
                 <br>
                 Całkowity koszt kredytu wynosi 365% rocznie.
             </p>

@@ -11,7 +11,7 @@
     <div id="banner">
         <h2>PILNEMONEY <br>
 SZYBKIE POŻYCZKI ONLINE</h2>
-        <p class="undertitle-text">Aby podnieść swoje szanse na otrzymanie szybkiego kredytu do 100% zachęcamy do złożenia jak największej liczby wniosków!<br> WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
+        <p class="undertitle-text">Aby podnieść swoje szanse na otrzymanie szybkiego kredytu do 100% zachęcamy do złożenia jak największej liczby wniosków! <br>WYBRALIŚMY NAJLEPSZE OFERTY – SPECJALNIE DLA CIEBIE!</p>
         <div class="container">
             <div class="row">
                 <!-- SMS365 --> 
@@ -174,15 +174,16 @@ SZYBKIE POŻYCZKI ONLINE</h2>
             <h2>Najważniejsze informacje i wymagania</h2>
             <h4>Wymagania do kredytobiorcy:</h4>
             <p>Wiek od 18 do 75 lat;<br>
-Stałe miejsce zameldowania na terenie całej Polski;<br>
-Dowolna historia kredytowa.
+             stałe miejsce zameldowania na terenie całej Polski;<br>
+            dowolna historia kredytowa.
 </p>
             <h4>Warunki otrzymania pożyczki:</h4>
-            <p>Pierwsza pożyczka w wysokości do ... zł wydawana jest za darmo, z oprocentowaniem równym 0% w przypadku jej terminowej spłaty; Oprocentowanie pożyczek wynosi od 30 do 360% rocznie, oraz oprocentowanie kredytów konsumenckich i kart kredytowych – od 17 do 31% rocznie. W przypadku nie spłacenia pożyczki w określonym terminie, naliczana jest kara w wysokości 0,10%  od dziennej kwoty za opóźnienie, jednak kara nie jest większa niż 10% od kwoty kredytu; W przypadku dłuższego opóźnienia płatności, informacje zostaną przekazane do KRD (krajowego rejestru dłużników).</p>
+            <p>Pierwsza pożyczka w wysokości do ... zł wydawana jest za darmo, z oprocentowaniem równym 0% w przypadku jej terminowej spłaty;  Oprocentowanie pożyczek wynosi od 30 do 360% rocznie, oraz oprocentowanie kredytów konsumenckich i kart kredytowych – od 17 do 31% rocznie. W przypadku nie spłacenia pożyczki w określonym terminie, naliczana jest kara w wysokości 0,10%  od dziennej kwoty za opóźnienie, jednak kara nie jest większa niż 10% od kwoty kredytu; W przypadku dłuższego opóźnienia płatności, informacje zostaną przekazane do KRD (Krajowego Rejestru Dłużników).</p>
             <h4>Konsekwencje niespłacenia pożyczki:</h4>
-            <p>W przypadku nieterminowego spłacenia kwoty kredytu lub kwoty odsetków za korzystanie z pożyczonych środków, pożyczkobiorca będzie zmuszony zapłacić karę za zwłokę. Większość kredytodawców ustalają dodatkowe 3 dni robocze, w ciągu których pożyczkobiorca może wykonać płatność. Dodatkowe dni do spłaty także są ustalane w przypadku gdy, np. przelew bankowy trwał dłużej niż zwykle. Jednakże, w przypadku braku jakiejkolwiek reakcji ze strony kredytobiorcy przez dłuższy czas, zostanie on obciążony karą za zwłokę terminowej spłaty, w wysokości około 0,10% od pierwotnej kwoty kredytu, 0,03% zaległej kwoty – średnio dla kredytów konsumenckich i kart kredytowych.<br>
-            <br>Niespełnienie warunków spłaty kredytów i pożyczek może skutkować przekazaniem danych kredytobiorcy do KRD (krajowego rejestru dłużników), z kolei nie spłata długu spowoduje zgłoszenie do firmy windykacyjnej. <br>
-            <br>O terminach spłat należności kredytobiorca będzie poinformowany w odpowiednim czasie poprzez wysłanie wierzycieliem SMSa albo informacja zostanie przekazana drogą elektroniczną. Zaleca się dokonanie płatności w dniu otrzymania ww. przypomnień. Terminowa spłata pożyczki zbuduje dobrą historię kredytową, która w przyszłości zwiększy szanse na uzyskanie kredytu na korzystniejszych warunkach. <br>
+            <p>W przypadku nieterminowego spłacenia kwoty kredytu lub kwoty odsetków za korzystanie z pożyczonych środków, pożyczkobiorca będzie zmuszony zapłacić karę za zwłokę. Większość kredytodawców ustalają dodatkowe 3 dni robocze, w ciągu których pożyczkobiorca może wykonać płatność. Dodatkowe dni do spłaty także są ustalane w przypadku gdy, np. przelew bankowy trwał dłużej niż zwykle. Jednakże, w przypadku braku jakiejkolwiek reakcji ze strony kredytobiorcy przez dłuższy czas, zostanie on obciążony karą za zwłokę terminowej spłaty, w wysokości około 0,10% od pierwotnej kwoty kredytu, 0,03% zaległej kwoty – średnio dla kredytów konsumenckich i kart kredytowych. 
+            <br>Niespełnienie warunków spłaty kredytów i pożyczek może skutkować przekazaniem danych kredytobiorcy do KRD (Krajowego Rejestru Dłużników), z kolei nie spłata długu spowoduje zgłoszenie do firmy windykacyjnej.<br>
+        
+            <br>O terminach spłat należności kredytobiorca będzie poinformowany w odpowiednim czasie poprzez wysłanie wierzycieliem SMSa albo informacja zostanie przekazana drogą elektroniczną. Terminowa spłata pożyczki zbuduje dobrą historię kredytową, która w przyszłości zwiększy szanse na uzyskanie kredytu na korzystniejszych warunkach.  <br>
             <br>Niniejsza propozycja nie jest ofertą pożyczkową. Omówić końcowe warunki należy bezpośrednio z wierzycielami.
             </p>
             <h4>Informacja o całkowitym koszcie pożyczki i przykład obliczania:</h4>
